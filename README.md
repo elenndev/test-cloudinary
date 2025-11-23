@@ -1,4 +1,4 @@
-Esse repositório foi criado para estudar como realizar a implementação do Cloudinary em um projeto Next, permitindo:
+Esse repositório foi criado para estudar como realizar a implementação do [Cloudinary](https://cloudinary.com/) em um projeto Next, permitindo:
 - Upload de novas imagens
 - Fetch de imagens salvas
 
@@ -36,3 +36,6 @@ Após criar as varriáveis de ambiente como indicadas em envExample;
 npm i
 npm run dev
 ```
+
+Acessar aplicação: [http://localhost:3000](http://localhost:3000)
+
