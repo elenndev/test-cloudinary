@@ -12,7 +12,6 @@ export default function Gallery() {
         const res = await fetch("/api/images");
         const data = await res.json();
         setImagens(data);
-        console.log(data)
       } catch (error) {
         console.error("Erro ao carregar imagens:", error);
       } finally {

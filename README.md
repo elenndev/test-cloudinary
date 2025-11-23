@@ -2,7 +2,7 @@ Esse repositório foi criado para estudar como realizar a implementação do Clo
 - Upload de novas imagens
 - Fetch de imagens salvas
 
-# Utilização
+# Implementação
 1. Foi necessário instalar o Cloudinary SDK
 ```
 npm install cloudinary
@@ -29,3 +29,10 @@ export default cloudinary;
 ```
 
 Essa instância é utilizada tanto na rota de upload quanto na rota de Fetch.
+
+# Utilização
+Após criar as varriáveis de ambiente como indicadas em envExample;
+```
+npm i
+npm run dev
+```

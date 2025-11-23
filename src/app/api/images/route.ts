@@ -9,7 +9,6 @@ export async function GET() {
       .max_results(50)
       .execute();
 
-    console.log(results.resources)
     return NextResponse.json(results.resources);
   } catch (error) {
     console.error(error);
