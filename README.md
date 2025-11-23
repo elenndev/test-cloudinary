@@ -31,7 +31,7 @@ export default cloudinary;
 Essa instância é utilizada tanto na rota de upload quanto na rota de Fetch.
 
 # Utilização
-Após criar as varriáveis de ambiente como indicadas em envExample;
+Após criar as variáveis de ambiente como indicadas em envExample;
 ```
 npm i
 npm run dev
